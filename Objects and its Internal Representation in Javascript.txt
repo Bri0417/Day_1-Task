@@ -17,7 +17,3 @@ an object.
 Syntax : var <object-name> = {key1: value1, key2: value2,... keyN: valueN};
 Example :   var car = {Make: “Mercedes”, Model: “C-Class”, Color: “White”, Fuel: Diesel, Weight: “850kg”, Mileage: “8 Kmpl”, Rating: 4.5};
 
-
-<!--First timegit initgit add .git commit -m "first commit"
-git remote add origin https://github.com/Raj2710/sample1.git
-git push -u origin masterother timesgit add .git commit -m "commit message"git push-->
