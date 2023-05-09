@@ -16,4 +16,3 @@ an object.
 
 Syntax : var <object-name> = {key1: value1, key2: value2,... keyN: valueN};
 Example :   var car = {Make: “Mercedes”, Model: “C-Class”, Color: “White”, Fuel: Diesel, Weight: “850kg”, Mileage: “8 Kmpl”, Rating: 4.5};
-
